@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(194, 131, 210);
+}
+
+#mensagemBoasVindas{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    right: -500px;
+}
+
+h1 {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: black;
+   font-size: 50px;
+   text-align: center;
+   margin: 50px;
+   margin-top: -20px;
+}
+.certas{
+   
+    font-size: 40px;
+    width: 50%;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    padding-bottom: 300px;
+    display: inline-block;
+    text-align: center;    
+}
+.erradas{
+    font-size: 40px;
+    width: 50%;
+    height: 100px;
+    display: inline-block;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 300px;
+    position: relative;
+    top: -407px;
+    right: -700px;
+    text-align: center; 
+}
